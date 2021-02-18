@@ -18,11 +18,11 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/xinebf/google-translate-for-goldendict",
     packages=setuptools.find_packages(),
-    install_requires=['requests'],
+    install_requires=["requests"],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.7',
+    python_requires=">=3.6",
 )
