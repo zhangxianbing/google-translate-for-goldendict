@@ -1,13 +1,14 @@
 # google-translate-for-goldendict
+
 Add Google translate for GoldenDict
 
-[GoldenDict][1] 是一个非常好用的词典工具, 却不能整句或整段的翻译, 时常需要借助 [Google translate][2] 对于将 Google 翻译加到 GoldenDict 是一个很好的方法 φ(゜▽゜*)♪
+[GoldenDict][1] 是一个非常好用的词典工具, 却不能整句或整段的翻译, 时常需要借助 [Google translate][2] 对于将 Google 翻译加到 GoldenDict 是一个很好的方法 φ(゜ ▽ ゜\*)♪
 
 ![screenshot](https://raw.githubusercontent.com/xinebf/google-translate-for-goldendict/master/screenshot.png)
 
 **使用方法:**
 
-需要 python 3.7+:
+需要 python 3.6+:
 
 `pip3 install google-translate-for-goldendict`
 
